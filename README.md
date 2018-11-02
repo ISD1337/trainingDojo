@@ -4,7 +4,7 @@
 
 This place is mainly for the those people who are getting started in programming design,
 and seek help for enhancing their experience into problem-solving skill.
-In order to archieve such objective, questions will provided from variety of different sources and renew in every weekend.
+In order to archieve such objective, a proper amount of questions will provided from variety of different sources and renew in every weekend.
 
 As this group is only for the closed related, the materials will be generally focused to the level of the student in related programs and my current self.
 
