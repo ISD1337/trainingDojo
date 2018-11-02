@@ -8,10 +8,18 @@ In order to archieve such objective, a proper amount of questions will provided 
 
 As this group is only for the closed related, the materials will be generally focused to the level of the student in related programs and my current self.
 
+### Rules
+
+* work in progress
+
+* Accepted language:
+```
+Java, C, C++
+```
 
 ## Sources
 
-Most of our execrises comes from UVa in case you wanna give a bump, here will be the link to the collection of problems and other relevant materials. 
+Most of our execrises comes from UVa in case you wanna give a bump, here will be the link to some collection of problems and other relevant materials. 
 
 UVa online judge: https://uva.onlinejudge.org/index.php
 
