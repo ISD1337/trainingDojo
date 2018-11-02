@@ -1,6 +1,6 @@
 # Training Dojo
 
-## Objective
+### Objective
 
 This place is mainly for the those people who are getting started in programming design,
 and seek help for enhancing their experience into problem-solving skill.
